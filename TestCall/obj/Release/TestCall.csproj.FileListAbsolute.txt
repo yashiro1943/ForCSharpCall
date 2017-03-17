@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\bin\Release\TestCall.exe.config
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\bin\Release\TestCall.exe
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\bin\Release\TestCall.pdb
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\obj\Release\TestCall.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\obj\Release\TestCall.Properties.Resources.resources
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\obj\Release\TestCall.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\obj\Release\TestCall.exe
+C:\Users\Owner\Desktop\ForCSharpCall\TestCall\obj\Release\TestCall.pdb
